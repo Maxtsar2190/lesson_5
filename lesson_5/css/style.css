@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 @font-face {
-   font-family: "TuskerGrotesk",serif;
+   font-family: "TuskerGrotesk";
    src: url("../fonts/TuskerGrotesk-1500Medium.woff2") format("woff2"), url("../fonts/TuskerGrotesk-1500Medium.woff") format("woff");
    font-display: swap;
    font-weight: 500;
